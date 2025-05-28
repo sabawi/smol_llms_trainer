@@ -1,0 +1,5 @@
+smol_lm_env
+llama.cpp
+training_output
+raw_datasets
+processed_datasets

@@ -1,0 +1,6 @@
+mkdir smol_lm_finetune
+cd smol_lm_finetune
+mkdir raw_datasets
+mkdir processed_datasets
+mkdir training_output
+mkdir training_scripts
